@@ -4,6 +4,7 @@
 
 The Currency Exchange Rate Prediction project utilizes machine learning techniques to forecast and predict currency exchange rates. The project focuses on developing models that can effectively analyze historical exchange rate data and make predictions for future rates. Multiple machine learning methods are employed to explore different approaches to currency exchange rate prediction.
 
+Project - 21
 
 ## Table of Contents
 - [Contributing](#contributing)
